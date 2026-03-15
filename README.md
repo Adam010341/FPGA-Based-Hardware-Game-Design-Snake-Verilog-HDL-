@@ -2,10 +2,6 @@
 A snake game on DE10-Lite
 # FPGA Snake Game (Verilog HDL)
 
-## Authors
-
-* 范啟彥 (Fan, Qi-Yan)
-
 ## Project Overview
 
 This project is a hardware-level implementation of the classic **Snake Game** developed for the **Terasic DE10-Lite (MAX10 FPGA)** platform. The system is built entirely using **Verilog HDL**, demonstrating hardware-software co-design principles, digital logic optimization, and real-time peripheral interfacing.
