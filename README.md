@@ -1,5 +1,5 @@
 # FPGA-Based-Hardware-Game-Design-Snake-Verilog-HDL-
-A snake game on DE10-Lite, integrating keypad scanning and display drivers
+A snake game on DE10-Lite
 # FPGA Snake Game (Verilog HDL)
 
 ## Authors
